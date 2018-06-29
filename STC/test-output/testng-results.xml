@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="8" passed="8">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="791" started-at="2018-03-12T10:48:32Z" finished-at="2018-03-12T10:48:33Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="791" started-at="2018-03-12T10:48:32Z" finished-at="2018-03-12T10:48:33Z">
+      <class name="backend.LoginPage.ExcelData">
+        <test-method status="PASS" signature="ExcelData(java.lang.String, java.lang.String)[pri:1, instance:backend.LoginPage.ExcelData@573f2bb1]" name="ExcelData" duration-ms="8" started-at="2018-03-12T16:33:33Z" data-provider="ExceldataForRawMessage" finished-at="2018-03-12T16:33:33Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Rina]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Shrestha]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ExcelData -->
+        <test-method status="PASS" signature="ExcelData(java.lang.String, java.lang.String)[pri:1, instance:backend.LoginPage.ExcelData@573f2bb1]" name="ExcelData" duration-ms="3" started-at="2018-03-12T16:33:33Z" data-provider="ExceldataForRawMessage" finished-at="2018-03-12T16:33:33Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Zina ]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Shrestha]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ExcelData -->
+        <test-method status="PASS" signature="ExcelData(java.lang.String, java.lang.String)[pri:1, instance:backend.LoginPage.ExcelData@573f2bb1]" name="ExcelData" duration-ms="3" started-at="2018-03-12T16:33:33Z" data-provider="ExceldataForRawMessage" finished-at="2018-03-12T16:33:33Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Rina ]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Shrestha]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ExcelData -->
+        <test-method status="PASS" signature="ExcelData(java.lang.String, java.lang.String)[pri:1, instance:backend.LoginPage.ExcelData@573f2bb1]" name="ExcelData" duration-ms="1" started-at="2018-03-12T16:33:33Z" data-provider="ExceldataForRawMessage" finished-at="2018-03-12T16:33:33Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Ritu ]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Shrestha]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ExcelData -->
+        <test-method status="PASS" signature="Data(java.lang.String)[pri:2, instance:backend.LoginPage.ExcelData@573f2bb1]" name="Data" duration-ms="1" started-at="2018-03-12T16:33:33Z" data-provider="Exceldata" finished-at="2018-03-12T16:33:33Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Kathmandu]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Data -->
+        <test-method status="PASS" signature="Data(java.lang.String)[pri:2, instance:backend.LoginPage.ExcelData@573f2bb1]" name="Data" duration-ms="1" started-at="2018-03-12T16:33:33Z" data-provider="Exceldata" finished-at="2018-03-12T16:33:33Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[lalitpur]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Data -->
+        <test-method status="PASS" signature="Data(java.lang.String)[pri:2, instance:backend.LoginPage.ExcelData@573f2bb1]" name="Data" duration-ms="1" started-at="2018-03-12T16:33:33Z" data-provider="Exceldata" finished-at="2018-03-12T16:33:33Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Newroad]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Data -->
+        <test-method status="PASS" signature="Data(java.lang.String)[pri:2, instance:backend.LoginPage.ExcelData@573f2bb1]" name="Data" duration-ms="1" started-at="2018-03-12T16:33:33Z" data-provider="Exceldata" finished-at="2018-03-12T16:33:33Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Salyan]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Data -->
+      </class> <!-- backend.LoginPage.ExcelData -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
