@@ -24,10 +24,10 @@ public class Login {
 	}
 
 	public String userEmail() {
-		return ("demo@ekbana.com");
+		return ("enterUserName");
 	}
 
 	public String userpassword() {
-		return ("Admin@123");
+		return ("enterpassword");
 	}
 }
